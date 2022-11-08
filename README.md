@@ -9,3 +9,9 @@ finalization 1
 3. footer - fix subscribe color and retreat
 
 4. page portfolio - fix shadow 
+
+work done (there is a fix)
+
+1. footer - change indents
+
+2. footer - subscribe change margin to padding

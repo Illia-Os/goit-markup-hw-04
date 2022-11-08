@@ -523,11 +523,11 @@ img {
 
 .set-footer{
   background-color: var(--gray-background-color);
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .container-footer {
-  padding-top: 60px;
-  padding-bottom: 60px;
   display: flex;
 }
 
@@ -578,6 +578,7 @@ img {
 .footer-contacts-link {
   color: var(--white-color);
   margin-right: auto;
+  padding-top: 14px;
 }
 
 .footer-contacts-link p {
@@ -587,6 +588,7 @@ img {
   line-height: calc(16 / 14);
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  margin-top: 0;
 }
 
 .icon-size-footer{
